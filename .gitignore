@@ -1,2 +1,6 @@
 /loan.csv
 /loan_data_2007_2014.csv
+/code_backup/loan_data_inputs_test.csv
+/code_backup/loan_data_inputs_train.csv
+/code_backup/loan_data_targets_test.csv
+/code_backup/loan_data_targets_train.csv
