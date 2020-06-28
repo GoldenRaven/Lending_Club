@@ -4,3 +4,10 @@
 /code_backup/loan_data_inputs_train.csv
 /code_backup/loan_data_targets_test.csv
 /code_backup/loan_data_targets_train.csv
+/code_my/loan_data_inputs_test.csv
+/code_my/loan_data_inputs_train.csv
+/code_my/loan_data_targets_test.csv
+/code_my/loan_data_targets_train.csv
+
+/code_my/.ipynb_checkpoints/CreditRiskModeling-PDModel-WithComments-2-checkpoint.ipynb
+/code_my/.ipynb_checkpoints/CreditRiskModeling-Preparation-WithComments-1-checkpoint.ipynb
