@@ -20,3 +20,5 @@
 /code_my/df.csv
 /code_my/*.csv
 /code_backup/*.csv
+/code_my/lgd_model_stage_1.sav
+/code_my/lgd_model_stage_2.sav
