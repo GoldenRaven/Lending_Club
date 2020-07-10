@@ -3,6 +3,7 @@ Lending Club 是美国知名的网贷平台，同时也是世界上最大的P2P�
 
 ## 贷款的预期损失Expected Loss
 EL = PD * LGD * EAD
+
 Basel 3协议的内部评级法要求商业银行对这三个量使用自己的方法，以更高的精度和准确性来建立模型，得到对三个量的估计。
 
 ## 违约概率Probability of Default
